@@ -1,36 +1,36 @@
-# 📊 HR Attrition Dashboard
+# 📊 Strategic HR Attrition & Retention Dashboard
 
-## Recommended Structure and Order
-
----
-
-# 1. Project Title / Headline
-
-## 📊 Strategic HR Attrition & Retention Dashboard
-
-A dynamic, interactive Power BI dashboard built to analyze employee turnover trends, identify high-risk departments, and provide actionable workforce insights.
+An interactive Power BI dashboard designed to analyze employee turnover and identify high-risk employee segments using data-driven insights.
 
 ---
 
-# 2. Short Description / Purpose
+## 1. Project Title / Headline
+
+📊 Strategic HR Attrition & Retention Dashboard
+
+A dynamic and interactive Power BI dashboard built to analyze employee turnover trends, identify high-risk departments, and provide actionable workforce insights.
+
+---
+
+## 2. Short Description / Purpose
 
 The Strategic HR Attrition Dashboard is an interactive Power BI report designed to analyze employee turnover across departments, job roles, and tenure. The dashboard helps HR teams and business leaders identify attrition patterns and improve employee retention through data-driven insights.
 
 ---
 
-# 3. Tech Stack
+## 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-• 📊 Power BI Desktop – Main data visualization platform used for dashboard creation  
+• 📊 Power BI Desktop – Data visualization and dashboard creation  
 • 📂 Power Query – Data cleaning and transformation  
-• 🧠 DAX (Data Analysis Expressions) – Calculated measures and KPIs  
+• 🧠 DAX – Calculated measures and KPI creation  
 • 📝 Data Modeling – Relationships created between tables  
 • 📁 File Format – .pbix for development and .png for dashboard preview  
 
 ---
 
-# 4. Data Source
+## 4. Data Source
 
 Source: HR Employee Attrition Dataset
 
@@ -46,21 +46,21 @@ The dataset contains employee-level information including:
 
 ---
 
-# 5. Features / Highlights
+## 5. Features / Highlights
 
-## Business Problem
+### Business Problem
 
 Employee attrition leads to increased hiring costs, productivity loss, and operational disruptions. Organizations often struggle to identify high-risk employee segments.
 
 Key questions such as:
 
-Which departments have highest attrition?  
-Which job roles experience most turnover?  
-When are employees most likely to leave?  
+• Which departments have highest attrition?  
+• Which job roles experience most turnover?  
+• When are employees most likely to leave?  
 
 ---
 
-## Goal of the Dashboard
+### Goal of the Dashboard
 
 To deliver an interactive HR analytics tool that:
 
@@ -71,47 +71,47 @@ To deliver an interactive HR analytics tool that:
 
 ---
 
-## Walkthrough of Key Visuals
+### Walkthrough of Key Visuals
 
-### Key KPIs
+#### Key KPIs
 
-Total Employees: 1000  
-Employees Left: 85  
-Average Salary: 113.22K  
-Attrition Rate: 8.5%
-
----
-
-### Attrition Rate by Department
-
-Marketing  
-Engineering  
-Human Resources  
-Finance  
-Accounting  
-Sales  
-IT  
+• Total Employees  
+• Employees Left  
+• Average Salary  
+• Attrition Rate  
 
 ---
 
-### Top Job Roles by Attrition
+#### Attrition Rate by Department
 
-Director  
-Sr Manager  
-Analyst  
-Sr Analyst  
-Business Partner  
-Vice President  
+• Marketing  
+• Engineering  
+• Human Resources  
+• Finance  
+• Accounting  
+• Sales  
+• IT  
 
 ---
 
-### Attrition by Years in Company
+#### Top Job Roles by Attrition
+
+• Director  
+• Sr Manager  
+• Analyst  
+• Sr Analyst  
+• Business Partner  
+• Vice President  
+
+---
+
+#### Attrition by Years in Company
 
 Line chart showing employee turnover across tenure.
 
 ---
 
-## Business Impact & Insights
+### Business Impact & Insights
 
 • Identifies high-risk departments  
 • Helps improve retention strategy  
@@ -120,13 +120,13 @@ Line chart showing employee turnover across tenure.
 
 ---
 
-# 6. Screenshots / Demos
+## 6. Screenshots / Demos
 
 ![HR Attrition Dashboard](https://raw.githubusercontent.com/dhrusingal/-Strategic-HR-Attrition-Retention-Dashboard/main/HR%20Attrition%20Dashboard.png)
 
 ---
 
-# 🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 • Power BI  
 • DAX  
@@ -134,4 +134,4 @@ Line chart showing employee turnover across tenure.
 • Data Cleaning  
 • Data Visualization  
 • Dashboard Design  
-• KPI Development  
+• KPI Development
