@@ -122,7 +122,7 @@ Line chart showing employee turnover across tenure.
 
 # 6. Screenshots / Demos
 
-
+https://github.com/dhrusingal/-Strategic-HR-Attrition-Retention-Dashboard/blob/main/HR%20Attrition%20Dashboard.png
 
 ---
 
