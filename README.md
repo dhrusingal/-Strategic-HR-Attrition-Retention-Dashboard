@@ -94,6 +94,14 @@ To deliver an interactive HR analytics tool that:
 
 ---
 
+#### Attrition Rate by Gender
+
+• Pie chart showing attrition distribution between male and female employees  
+• Helps identify gender-based attrition trends  
+• Supports diversity and retention analysis
+
+---
+
 #### Top Job Roles by Attrition
 
 • Director  
